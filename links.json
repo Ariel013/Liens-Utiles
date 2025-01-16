@@ -1,0 +1,12 @@
+{
+  {
+  "title": Reset mysql root password,
+  "link": https://phoenixnap.com/kb/how-to-reset-mysql-root-password-windows-linux,
+  "desc": Forgot my mysql password and wanted to reinitialize it.
+  };
+  {
+    "title": Access denied error during mysql root password reseting,
+    "link": https://stackoverflow.com/questions/41645309/mysql-error-access-denied-for-user-rootlocalhost
+    "desc": ERROR : ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+  }
+}
